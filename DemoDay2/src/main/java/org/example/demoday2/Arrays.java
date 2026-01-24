@@ -9,6 +9,7 @@ public class Arrays {
 
         String[] names = {"Charan","Saiteja","SravnKumar","Shivani","Deepika"};
         System.out.println("First Name : "+names[0]);
+        System.out.println("First Name : "+names[0]);
         System.out.println("Third Name : " + names[2]);
         for(int i = 0;i<names.length;i++){
             System.out.print(i + " " + names[i] + " ");
