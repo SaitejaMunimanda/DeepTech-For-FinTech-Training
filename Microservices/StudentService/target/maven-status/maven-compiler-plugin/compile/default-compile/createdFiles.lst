@@ -1,0 +1,8 @@
+org\example\studentservice\dto\StudentDetails.class
+org\example\studentservice\controller\StudentController.class
+org\example\studentservice\StudentServiceApplication.class
+org\example\studentservice\repository\StudentRepository.class
+org\example\studentservice\service\StudentService.class
+org\example\studentservice\dto\CourseDTO.class
+org\example\studentservice\entity\Student.class
+org\example\studentservice\feign\CourseClient.class

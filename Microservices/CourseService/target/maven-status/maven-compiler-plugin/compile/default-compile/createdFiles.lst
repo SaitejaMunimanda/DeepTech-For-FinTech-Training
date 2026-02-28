@@ -1,0 +1,5 @@
+org\example\courseservice\controller\CourseController.class
+org\example\courseservice\repository\CourseRepository.class
+org\example\courseservice\entity\Course.class
+org\example\courseservice\service\CourseService.class
+org\example\courseservice\CourseServiceApplication.class
